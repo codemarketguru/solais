@@ -1,0 +1,17 @@
+{
+      "chainId": 101,
+      "address": "4oFjY1zJ856b1zpFhJZr5BGP8EoEZsUpYEpbuKfBCKWT",
+      "symbol": "VINU",
+      "name": "Solais",
+      "decimals": 9,
+      "logoURI": "https://github.com/codemarketguru/solais/logo.png",
+      "tags": [
+        "utility-token",
+        "meme-token",
+        "community-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/Solais",
+        "website": "https://www.solais.sol"
+      }
+}
