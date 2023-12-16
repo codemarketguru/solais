@@ -39,4 +39,4 @@ SOLAIS leverages its platform to educate and raise awareness about animal welfar
 
 ---
 
-This draft provides a foundation for your whitepaper, outlining key aspects such as the mission, tokenomics, and community engagement strategies. The final whitepaper would require further elaboration on each section, detailed financial models, technical specifications, a comprehensive roadmap, legal disclaimers, and more. Crafting a whitepaper is a collaborative and iterative process, often involving input from team members, advisors, legal experts, and other stakeholders.
+This draft is pending further elaboration on each section, including financial models, technical specifications, a comprehensive roadmap, legal disclaimers etc. 
