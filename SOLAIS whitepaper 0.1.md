@@ -1,7 +1,3 @@
-Creating a draft whitepaper for the SOLAIS token with a focus on animal welfare requires integrating the concepts we discussed into a structured document. Below is an example of what the beginning sections of this whitepaper might look like. Remember, a complete whitepaper would be much more detailed and extensive.
-
----
-
 # SOLAIS Whitepaper Draft
 
 ## Introduction
