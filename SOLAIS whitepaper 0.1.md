@@ -26,8 +26,24 @@ SOLAIS’s tokenomics is designed to sustain its mission and growth. The distrib
 - Reserves for future development
 - Allocation for animal welfare initiatives
 
+### Deflationary Mechanism
+- **Burning Mechanism**: A small percentage of each SOLAIS transaction is permanently burned, reducing the total supply and potentially increasing scarcity.
+- **Limited Supply**: SOLAIS has a fixed maximum supply, emphasizing its scarcity and value.
+
 ### Transparent Allocation to Animal Welfare
 Utilizing blockchain's inherent transparency, a portion of every transaction made with SOLAIS is automatically allocated to a dedicated fund for animal welfare. This process is governed by smart contracts, ensuring accountability and direct impact.
+
+## NFT Integration for Animal Welfare
+
+### NFT Minting by Charity Organizations
+- **Sponsorship NFTs**: Partnered animal welfare organizations are empowered to mint unique NFTs, each representing the sponsorship of a specific animal or project.
+- **Revenue Distribution**: A majority of the proceeds from NFT sales go directly to the respective animal welfare organization, with a portion allocated for community and ecosystem development.
+
+## Partnership Model with Animal Welfare Organizations
+
+### Collaborative Relationships
+- **Criteria for Partnerships**: Explanation of how animal welfare organizations are chosen based on credibility and alignment with SOLAIS’s mission.
+- **NFT Minting Rights**: Each organization is allocated a certain number of NFTs they can mint, controlled through a permissioned smart contract system.
 
 ## Decentralized Governance and Community Engagement
 
