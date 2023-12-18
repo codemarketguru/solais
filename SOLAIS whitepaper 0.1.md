@@ -41,52 +41,37 @@ Utilizing blockchain's inherent transparency, a portion of every transaction mad
 
 SOLAIS empowers partnered animal welfare organizations to mint unique NFTs representing specific animals or projects. A majority of NFT sale proceeds directly support the respective organizations, with a portion for community and ecosystem development.
 
-
 ## Partnership Model with Animal Welfare Organizations
-
 ### Collaborative Relationships
-
 SOLAIS partners with animal welfare organizations based on credibility and mission alignment. These organizations are granted specific NFT minting rights, controlled through a permissioned smart contract system.
 
 ## Decentralized Governance and Community Engagement
-
 ### Community-Driven Decision Making
-
 The SOLAIS community actively participates in decision-making regarding animal welfare projects through decentralized governance, enhancing ownership and participation.
 
 ### Awareness and Education
-
 SOLAIS educates and raises awareness about animal welfare, engaging experts and organizing community events to foster a knowledgeable, passionate community.
 
 ## NFTs for Specific Animal Welfare Initiatives
-
 ### Specific Endangered Species Advocacy
-
 SOLAIS creates NFTs for individual endangered species, like tigers in conservation programs or gorillas in protected habitats, fostering a personal connection between the NFT holder and the animal.
 
 ### Wildlife Rehabilitation
-
 NFTs represent individual animals in rehabilitation centers, like rescued eagles or rehabilitated seals. NFT funds directly support the care and rehabilitation of these animals.
 
 ### Support for No-Kill Animal Shelters
-
 NFTs correspond to specific pets in no-kill shelters, aiding in covering food, medical care, and housing costs.
 
 ### Combatting Poaching
-
 NFTs are linked to anti-poaching initiatives, representing high-risk animals like elephants in protected reserves. Sales fund anti-poaching patrols and protective measures.
 
 ### Mobile Veterinary Clinics in Rural Areas
-
 NFTs represent animals treated by mobile clinics, with funds allocated for medical supplies, staff costs, and transportation.
 
 ### Animal Rescue Operations in Disaster Zones
-
 NFTs depict animals rescued from natural disasters, narrating rescue operations and ongoing care stories.
 
-
 ## Decentralized Governance and Community Engagement
-
 ### Community-Driven Decision Making
 The SOLAIS community plays a pivotal role in deciding which animal welfare projects to support. Through decentralized governance mechanisms, token holders can vote on initiatives, fostering a sense of ownership and active participation.
 
